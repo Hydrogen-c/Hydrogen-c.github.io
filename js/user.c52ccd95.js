@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["user"],{1511:function(t,n,e){"use strict";e.r(n);var u=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",[e("button",{on:{click:function(n){return t.toadd()}}},[t._v("add")]),e("div",[t._v("user")])])},o=[],r={name:"User",methods:{toadd:function(){this.$router.push("/add")}}},d=r,s=e("2877"),c=Object(s["a"])(d,u,o,!1,null,"4c548846",null);n["default"]=c.exports}}]);
+//# sourceMappingURL=user.c52ccd95.js.map
